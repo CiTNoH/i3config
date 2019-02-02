@@ -1,0 +1,3 @@
+apt-get install -y feh i3blocks terminator i3lock suckless-tools i3status pavucontrol xbacklight
+# install i3blocks packages
+apt-get install -y acpi sysstat 
